@@ -21,6 +21,6 @@ The goal is to progressively build coding foundations and move toward real-world
 - Early steps toward machine learning-ready datasets  
 
 ## Roadmap
-- [ ] More data-analytics style projects  
-- [ ] Machine Learning from scratch (KNN, Regression, Naive Bayes)  
-- [ ] Portfolio-level ML projects using scikit-learn / Keras
+- More data-analytics style projects  
+- Machine Learning from scratch (KNN, Regression, Naive Bayes)  
+- Portfolio-level ML projects using scikit-learn / Keras
