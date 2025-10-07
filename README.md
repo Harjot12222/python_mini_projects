@@ -6,13 +6,13 @@ The goal is to progressively build coding foundations and move toward real-world
 ## Projects
 
 1. ✅ To-Do List  
-2. ✅ Quiz Game  
-3. ✅ Number Guessing Game  
-4. ✅ Expense Tracker  
-5. ✅ Spam Detector  
-6. ✅ Contact Manager  
-7. ✅ Calculator  
-... (more coming soon 🚀)
+2. ✅ Quiz Game
+3. ✅ Text analyser
+4. ✅ Number Guessing Game  
+5. ✅ Expense Tracker  
+6. ✅ Spam Detector  
+7. ✅ Contact Manager  
+8. ✅ Calculator 
 
 ## Skills Covered
 - Python fundamentals (loops, conditionals, functions, error handling)  
